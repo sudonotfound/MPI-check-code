@@ -14,4 +14,3 @@ int main(){
   MPI_Finalize();   // MPIの終了処理
   return 0;
 }
-    
