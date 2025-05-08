@@ -11,6 +11,7 @@ MPI（Message Passing Interface）は、分散メモリ型並列計算機での�
 
 ## コンパイル
 mpicc filename
+
 (ex) mpicc test_MPI.c -o test_MPI
 ## 実行方法
 ### スレッド並列
